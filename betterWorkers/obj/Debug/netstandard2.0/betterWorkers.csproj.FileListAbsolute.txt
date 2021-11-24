@@ -1,0 +1,62 @@
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.csproj.AssemblyReference.cache
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Calificar.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Categorias.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Configuraciones\ConfigAnunciante.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Configuraciones\Paglocalizar.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Configuraciones\PagoPremium.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Contenedor.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\CrearCorreo.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Login.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\MiPerfil.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Negocios.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Presentacion.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\TutorialIntro\Intro1.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\TutorialIntro\Vista1.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\TutorialIntro\Vista2.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\TutorialIntro\Vista3.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\VerPerfil.xaml.g.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.AssemblyInfoInputs.cache
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.AssemblyInfo.cs
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.csproj.CoreCompileInputs.cache
+C:\App Movil 2021\betterWorkers\betterWorkers\bin\Debug\netstandard2.0\betterWorkers.deps.json
+C:\App Movil 2021\betterWorkers\betterWorkers\bin\Debug\netstandard2.0\betterWorkers.dll
+C:\App Movil 2021\betterWorkers\betterWorkers\bin\Debug\netstandard2.0\ref\betterWorkers.dll
+C:\App Movil 2021\betterWorkers\betterWorkers\bin\Debug\netstandard2.0\betterWorkers.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.dll
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\ref\betterWorkers.dll
+C:\App Movil 2021\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.pdb
+C:\Apps\betterWorkers\betterWorkers\bin\Debug\netstandard2.0\betterWorkers.deps.json
+C:\Apps\betterWorkers\betterWorkers\bin\Debug\netstandard2.0\betterWorkers.dll
+C:\Apps\betterWorkers\betterWorkers\bin\Debug\netstandard2.0\ref\betterWorkers.dll
+C:\Apps\betterWorkers\betterWorkers\bin\Debug\netstandard2.0\betterWorkers.pdb
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.csproj.AssemblyReference.cache
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Calificar.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Categorias.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Configuraciones\ConfigAnunciante.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Configuraciones\Paglocalizar.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Configuraciones\PagoPremium.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Contenedor.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\CrearCorreo.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Login.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\MiPerfil.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Negocios.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\Presentacion.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\TutorialIntro\Intro1.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\TutorialIntro\Vista1.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\TutorialIntro\Vista2.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\TutorialIntro\Vista3.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\Vistas\VerPerfil.xaml.g.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.AssemblyInfoInputs.cache
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.AssemblyInfo.cs
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.csproj.CoreCompileInputs.cache
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.dll
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\ref\betterWorkers.dll
+C:\Apps\betterWorkers\betterWorkers\obj\Debug\netstandard2.0\betterWorkers.pdb

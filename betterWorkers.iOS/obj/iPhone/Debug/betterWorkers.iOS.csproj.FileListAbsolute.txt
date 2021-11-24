@@ -1,0 +1,174 @@
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\optimized\
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.csproj.AssemblyReference.cache
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.csproj.CoreCompileInputs.cache
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\betterWorkers.iOS.exe
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\betterWorkers.iOS.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Acr.UserDialogs.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Acr.UserDialogs.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\BTProgressHUD.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\BTProgressHUD.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Lottie.iOS.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Lottie.iOS.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Lottie.Forms.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Lottie.Forms.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Firebase.Auth.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Firebase.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Firebase.Storage.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\LiteDB.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Messier16.Forms.Controls.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Messier16.Forms.iOS.Controls.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\System.Reactive.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.ExternalMaps.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.Media.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.Media.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ImageCircle.Forms.Plugin.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.OpenWhatsApp.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.PancakeView.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Google.Maps.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\betterWorkers.dll
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\betterWorkers.pdb
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.csproj.CopyComplete
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.exe
+C:\App Movil 2021\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\betterWorkers.iOS.exe
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\betterWorkers.iOS.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Acr.UserDialogs.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Acr.UserDialogs.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\BTProgressHUD.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\BTProgressHUD.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Lottie.iOS.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Lottie.iOS.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Lottie.Forms.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Lottie.Forms.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Firebase.Auth.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Firebase.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Firebase.Storage.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\LiteDB.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Messier16.Forms.Controls.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Messier16.Forms.iOS.Controls.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\System.Reactive.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.ExternalMaps.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.Media.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Plugin.Media.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ImageCircle.Forms.Plugin.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.OpenWhatsApp.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Xamarin.Forms.PancakeView.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\Google.Maps.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\betterWorkers.dll
+C:\Apps\betterWorkers\betterWorkers.iOS\bin\iPhone\Debug\betterWorkers.pdb
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\optimized\
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.csproj.AssemblyReference.cache
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.csproj.CoreCompileInputs.cache
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.csproj.CopyComplete
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.exe
+C:\Apps\betterWorkers\betterWorkers.iOS\obj\iPhone\Debug\betterWorkers.iOS.pdb

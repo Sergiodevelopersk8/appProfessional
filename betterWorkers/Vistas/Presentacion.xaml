@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="betterWorkers.Vistas.Presentacion">
+    <Grid  BackgroundColor="#090B1C">
+        <StackLayout VerticalOptions="CenterAndExpand"
+           >
+            <Image Source="portfolio.png"
+                   HeightRequest="150" x:Name="logo"/>
+            <Label Text="Professional Services" TextColor="White"
+                   HorizontalOptions="Center"
+                   FontSize="30"
+                   FontAttributes="Bold"/>
+            <Label Text="from" 
+                   TextColor="#F8F9FA"
+                   HorizontalOptions="Center"
+                   HeightRequest="100"/>
+            <Label Text="C R A C K S 2021"
+                   TextColor="#EC4827" 
+                   FontSize="14"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"/>
+        </StackLayout>
+    </Grid>
+</ContentPage>
